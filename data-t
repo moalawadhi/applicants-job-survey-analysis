@@ -1,0 +1,104 @@
+:briefcase: Job Applicants Survey – Tech Industry Talent Insights
+Analyze a recent survey of 70,000+ job applicants to uncover trends in age distribution, salary comparisons, geographical representation, and coding experience within the tech industry.
+ This project aims to provide data-driven insights that guide smarter recruitment strategies and workforce development decisions.
+:bar_chart: Project Overview
+This project analyzes a large dataset of tech industry applicants to explore the demographics, experience, and skill levels shaping today’s job market.
+ Through statistical and visual analysis, the project highlights key findings about who is applying, where they come from, and how their experience impacts salary and employability.
+:dart: Objectives
+Examine age distribution to understand generational representation in tech.
+Compare average salaries across roles and experience levels.
+Analyze geographical representation of applicants to identify key hiring regions.
+Assess coding experience to evaluate overall technical proficiency.
+Translate insights into strategic recruitment recommendations.
+:brain: Summary
+We analyzed data from 70,000 applicants, focusing on:
+Age Distribution: Breakdown of applicants across different age groups to identify generational representation in tech roles.
+Salary Comparisons: Evaluation of average salaries across multiple job roles and experience levels.
+Geographical Representation: Analysis of the top contributing countries to our talent pool, emphasizing the top four nations shaping the industry.
+Coding Experience: Examination of applicants’ years of coding to gauge overall technical proficiency and skill availability.
+These insights help organizations attract, develop, and retain top talent in a rapidly evolving market.
+:chart_with_upwards_trend: Key Findings
+:bar_chart: The dataset covers 73,399 applicants, providing strong statistical reliability.
+:older_adult: Balanced age representation highlights both emerging and experienced talent pools.
+:moneybag: Salary patterns show notable variations by country and role type.
+:earth_africa: Top countries contribute the majority of skilled applicants, offering strategic hiring opportunities.
+:computer: Coding experience strongly correlates with higher employment rates and salary potential.
+:speech_balloon: Conclusion
+Our analysis of the 70,000 applicants reveals valuable insights into global tech talent trends:
+Understanding age distribution and salary trends helps tailor recruitment strategies to meet evolving market demands.
+Recognizing geographical patterns allows companies to target outreach in high-value regions.
+Evaluating coding experience highlights the technical proficiency available across markets.
+By leveraging these insights, organizations can enhance recruitment efficiency, strengthen workforce diversity, and build a more competitive and skilled team for the future.
+:card_index_dividers: Dataset
+Source: Kaggle – Job Applicants Data (Human Resources)
+Records: 73,399 applicants
+Collected from: Career fairs and online job applications
+Data Attributes: Age, Gender, Education, Salary, Country, Employment Status, Coding Experience, Computer Skills, and Mental Health
+:toolbox: Tools & Technologies
+Python – Pandas, Matplotlib, Seaborn for data analysis and visualization
+SQL / Excel – Querying and data validation
+Tableau / Power BI – Interactive dashboards and comparative visuals
+Canva / PowerPoint – Presentation and storytelling design
+:paperclip: Deliverables
+:receipt: Survey.pdf – Final presentation (summary, visuals, and findings)
+:bar_chart: Jupyter Notebook / Python scripts – Data analysis workflow
+:chart_with_upwards_trend: Tableau Dashboard – Optional visualization dashboard
+:memo: README.md – Project overview and documentation (this file)
+:bust_in_silhouette: Author
+Mohamed Al Awadhi
+ Data Analyst | Workforce Insights Enthusiast
+
+React
+
+Reply
+
+8:39
+check for the things u want to delete like using sql or python
+8:43
+:briefcase: Job Applicants Survey – Tech Industry Talent Insights
+An interactive Tableau analysis of 70,000+ job applicants uncovering key insights about age distribution, salary trends, geographical representation, and coding experience in the tech industry.
+ This dashboard helps organizations and recruiters make data-driven hiring decisions and understand the global tech talent landscape.
+:bar_chart: Project Overview
+This project explores a large survey dataset of job applicants to identify demographic and professional patterns that influence employment outcomes.
+ Using Tableau visualizations, the analysis highlights the relationship between age, experience, geography, and salary — providing actionable insights for recruiters and HR professionals in the tech sector.
+:dart: Objectives
+Visualize the age distribution of applicants across the dataset.
+Compare average salaries by role, country, and experience level.
+Analyze geographical representation, highlighting the top four contributing countries.
+Examine coding experience to assess technical proficiency among applicants.
+Support recruitment strategy planning through data-driven insights.
+:brain: Summary
+We analyzed a survey of 70,000 applicants, focusing on:
+Age Distribution: Understanding generational trends across the applicant pool.
+Salary Comparisons: Evaluating income differences by role and country.
+Geographical Representation: Highlighting countries contributing most to the global tech workforce.
+Coding Experience: Measuring skill levels and years of experience to gauge technical readiness.
+These insights empower recruiters to align hiring strategies, identify strong regions for talent sourcing, and support data-driven workforce planning.
+:chart_with_upwards_trend: Key Findings
+:bar_chart: The dataset includes 73,399 applicants from diverse backgrounds.
+:moneybag: Salary varies significantly by country and role type.
+:earth_africa: The top four countries account for the largest share of skilled applicants.
+:computer: Years of coding experience correlate strongly with employment and salary.
+:older_adult: Balanced age representation shows both entry-level and experienced talent pools.
+:speech_balloon: Conclusion
+The Tableau analysis reveals valuable insights into the global tech talent landscape.
+ By understanding demographics, salary patterns, and technical skills, organizations can:
+Attract and retain the right candidates.
+Focus on high-potential regions.
+Build inclusive and skill-driven recruitment strategies.
+Leveraging these insights enhances competitive advantage and supports smarter workforce development.
+:card_index_dividers: Dataset
+Source: Kaggle – Job Applicants Data (Human Resources)
+Records: 73,399 applicants
+Collected from: Career fairs and online job applications
+:toolbox: Tools & Technologies
+Tableau – Data visualization and dashboard design
+Kaggle Dataset – Data source for analysis
+(No Python or SQL used in this project)
+:paperclip: Deliverables
+:bar_chart: Job_Applicants_Survey.twbx – Tableau dashboard (main analysis)
+:receipt: Survey.pdf – Presentation slides and summary
+:memo: README.md – Project documentation (this file)
+:bust_in_silhouette: Author
+Mohamed Al Awadhi
+ Data Analyst | Tableau Enthusiast | Workforce Insights Researcher
